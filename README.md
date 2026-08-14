@@ -5,3 +5,7 @@ this is my first repository
   SHIVAM BDSK 
 </h1>
 author-abhishek singh 
+<<<<<<< HEAD
+=======
+</br>
+>>>>>>> 9dd7b555599746455904dc0540d1d2d439b13815
